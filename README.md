@@ -1,2 +1,2 @@
 # Code_on_Python
-in this file i have wrtten the python 
+in this file i have written the python 
